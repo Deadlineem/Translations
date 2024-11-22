@@ -1,1 +1,1 @@
-# YimMenu Translations
+# Chronix Translations
