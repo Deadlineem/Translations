@@ -910,7 +910,7 @@
   "ONBOARDING_SET_LANGUAGE": "Select your preferred language:",
   "ONBOARDING_SET_MENU_OPEN_KEY": "Select a key to open Chronix:",
   "ONBOARDING_WELCOME_TITLE": "Welcome to Chronix!",
-  "SUBMIT_ONBOARING": "Submit",
+  "SUBMIT_ONBOARDING": "Submit",
   "ONBOARDING_ENCRYPTED_KEY": "Key Validation",
   "ONBOARDING_INVALID_KEY": "Unload",
   "ONBOARDING_INVALID_KEY_ERROR_DESC": "The key you entered is invalid, Chronix will now close.  Re-Inject Chronix to enter a new key."
