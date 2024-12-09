@@ -913,6 +913,7 @@
   "SUBMIT_ONBOARING": "Submit",
   "ONBOARDING_ENCRYPTED_KEY": "Key Validation",
   "ONBOARDING_INVALID_KEY": "Unload",
+  "ONBOARDING_INVALID_KEY_ERROR_DESC": "The key you entered is invalid, Chronix will now close.  Re-Inject Chronix to enter a new key."
   "ONLINE_PLAYER": "ONLINE PLAYER",
   "ONLY_AS_HOST": "Only works as host",
   "OOM_KICK": "{} tried to OOM kick you!",
