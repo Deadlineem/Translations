@@ -477,6 +477,7 @@
   "DISABLE": "Disable",
   "DISABLED_LUA_SCRIPTS": "Disabled Lua Scripts:",
   "DISABLE_ALL_LUA_SCRIPTS": "Disable All Lua Scripts",
+  "FETCH_LUA_SCRIPTS_REPOSITORIES": "Get More Scripts",
   "LUA_SCRIPTS_REPOSITORIES": "Browse Repositories",
   "REPOSITORY_CONTENTS": "Files",
   "DISABLE_CEO_MONEY": "Disable CEO Money",
