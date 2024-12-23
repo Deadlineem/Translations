@@ -477,6 +477,8 @@
   "DISABLE": "Disable",
   "DISABLED_LUA_SCRIPTS": "Disabled Lua Scripts:",
   "DISABLE_ALL_LUA_SCRIPTS": "Disable All Lua Scripts",
+  "LUA_SCRIPTS_REPOSITORIES": "Browse Repositories",
+  "REPOSITORY_CONTENTS": "Files",
   "DISABLE_CEO_MONEY": "Disable CEO Money",
   "DISABLE_CEO_MONEY_DESC": "Blocks CEO money drops across the entire session. This can also break other stuff, use with caution",
   "DISABLE_COLLISION": "Disable Collision",
