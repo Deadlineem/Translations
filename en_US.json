@@ -563,6 +563,8 @@
   "FORCE_WANTED_LEVEL_DESC": "Keep a specific wanted level active on yourself",
   "FREECAM": "Freecam",
   "FREECAM_DESC": "Detaches the camera from the player and allows you to move it around freely",
+  "PREVIEWCAM": "Outfit Preview",
+  "PREVIEWCAM_DESC": "Freezes your characters position. Press A or D to rotate your camera view around the character.",
   "FRONT": "Front",
   "FULLY_AUTOMATIC_SIGNAL": "Fully Automatic Signal",
   "FUN_VEHICLE_SEAT": "Seat",
